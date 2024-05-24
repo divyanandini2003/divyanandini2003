@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development and coding**
 
-- 👨‍💻 My portfolio <a href="https://master--sparkling-lily-8d02f2.netlify.app/](https://master--sparkling-lily-8d02f2.netlify.app/" target="blank"> Link</a>
+- 👨‍💻 My portfolio <a href="https://master--sparkling-lily-8d02f2.netlify.app/" target="blank"> Link</a>
   
 
 - 📫 Reach me out by mailing to **divyanandini2003@gmail.com**
