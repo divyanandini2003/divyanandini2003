@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nandini</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<img align="right" alt="coding" width="180" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" style="margin:40px,border-radius:10px">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-- 💻 I'am eager to secure a position at a prestigious company where I can effectively apply my skills and play a significant role in their continued success.
+- 💻 I'am eager to secure a position at a prestigious company <br> where I can effectively apply my skills and play a significant role in their continued success.
 
 - 🌱 I’m currently learning **Backend Development and coding**
 
