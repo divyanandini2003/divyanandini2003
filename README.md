@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development and coding**
 
-- 👨‍💻 My portfolio <a https://divyanandini2003.github.io/web_portofio//> Link</a>
+- 👨‍💻 My portfolio <a https://divyanandini2003.github.io/web_portofio/> Link</a>
   
 
 - 📫 Reach me out by mailing to **divyanandini2003@gmail.com**
