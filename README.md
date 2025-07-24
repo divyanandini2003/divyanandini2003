@@ -17,7 +17,7 @@
 <a href="https://drive.google.com/file/d/1m442IzcyY_Kfor1GHKJfEYRCrgI9dIZh/view?usp=sharing" target="blank">Resume Link</a>
   
 
-- ⚡ A Fun fact is that **I love photography and listening music🎵**
+- ⚡ A Fun fact is that **I love making creative flower bouquets,crafts and writing motivational quotes.**
   
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanandini2003&label=Profile%20views&color=0e75b6&style=flat" alt="divyanandini2003" /> </p>
