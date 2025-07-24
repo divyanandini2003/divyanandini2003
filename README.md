@@ -5,7 +5,7 @@
 
 - 💻 I'am eager to secure a position at a prestigious company <br> where I can effectively apply my skills and play a significant role in their continued success.
 
-- 🌱 I’m currently learning **Web development, SQL and coding**
+- 🌱 I’m currently working on **Web development, SQL and coding**
 
 - 👨‍💻 My portfolio <a href="https://divyanandini2003.github.io/web_portofio/" target="_blank">Link</a>
 
